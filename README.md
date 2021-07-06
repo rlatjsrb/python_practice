@@ -1,2 +1,2 @@
 # python_practice
-파이썬 과제 실습
+파이썬 실습
